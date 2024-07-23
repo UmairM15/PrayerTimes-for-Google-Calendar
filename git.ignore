@@ -1,0 +1,3 @@
+# Ignore Google API credentials and tokens
+credentials.json
+token.json
